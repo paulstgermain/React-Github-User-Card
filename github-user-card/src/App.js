@@ -6,6 +6,8 @@ import styled from 'styled-components';
 import lambdalogo from './assets/lambdalogo.png';
 import githublogo from './assets/githublogo.png';
 
+//COMPONENT IMPORTS
+
 import GitHubCard from './components/GitHubCard';
 import FriendCards from './components/FriendCards';
 
